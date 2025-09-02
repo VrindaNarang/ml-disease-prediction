@@ -22,6 +22,6 @@ A predictive analytics platform built to assess women’s risk of common disease
 
 ---
 
-## Installation & Setup
-
-1. Clone the repository  
+## Usage
+Visit this link to view the deployed app
+https://femhealth123.vercel.app/
